@@ -1,6 +1,7 @@
 <?php require 'method.php'; ?>
 
 <a href='./formulaire.php'>Ajouter une note</a>
+
 <table>
   <thead>
     <tr>
